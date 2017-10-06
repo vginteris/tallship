@@ -1,0 +1,79 @@
+.backgroundclass{
+    width: 100%;
+    height: 100%;
+    /*background-image: url("https://www.planwallpaper.com/static/images/background_image_9.jpg");*/
+    background-image: url("../img/background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mainlogin{
+    height: 400px;
+    background-color: rgba(112, 154, 210, 0.6)
+
+}
+.mainregistracija{
+    height: auto;
+    background-color: rgba(112, 154, 210, 0.6);
+    margin-bottom: 10px;
+}
+
+.loginimg{
+    height: 130px;
+    width: 130px;
+    margin-top: 20px;
+    border-radius: 50%;
+}
+
+.form-control2 {
+    display: block;
+    width: 100%;
+    height: 50px;
+    padding: 6px 12px;
+    font-size: 22px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: rgb(238, 213, 148);
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    margin-top: 10px;
+}
+
+.btn1 {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 25px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    margin-top: 20px;
+    width: 100%;
+    height: 50px;
+}
+
+.backgroundclasstable{
+    width: 100%;
+    height: 100%;
+    /*background-image: url("https://www.planwallpaper.com/static/images/background_image_9.jpg");*/
+    background-color: rgba(32, 210, 165, 0.42);
+
+}
